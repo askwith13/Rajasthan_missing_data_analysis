@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.4.0",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "Output/Decision tree.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    ".RData": {
+      "checksum": "c67c1d592634ecdda071284fd8cd32b8"
+    },
+    ".RDataTmp": {
+      "checksum": "bc86b188736f63ade8246f2a50af757b"
+    },
+    "Data/data.csv": {
+      "checksum": "b8ab5587ce46749b85e92cd3a2c64509"
+    },
+    "Data/data2.csv": {
+      "checksum": "a3a106c327f01c9504c588fd8495155d"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q1-23.xlsx": {
+      "checksum": "4d3c0200e6067ba744cbc91853fa80d6"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q1-24.xlsx": {
+      "checksum": "0c7ca0dfc55c8fc6ad4144af18b45970"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q1-25.xlsx": {
+      "checksum": "e8101d71eedd968c656b9d595490494b"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q2-23.xlsx": {
+      "checksum": "5d29bbb8f83f0441ca5366c36ff5c4ed"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q2-24.xlsx": {
+      "checksum": "500a293844651f185a7dacc3a93b2536"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q2-25.xlsx": {
+      "checksum": "e0850d6edc179abd78c72ce5358d48e3"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q3-23.xlsx": {
+      "checksum": "96140c67fda90d89e894d43a81f5399e"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q3-24.xlsx": {
+      "checksum": "a9395bc303308ba33e24f35097402896"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q4-23.xlsx": {
+      "checksum": "023beddb65774b455e6bd005644c601c"
+    },
+    "Data/NotificationRegisterDC_02-05-2025_Q4-24.xlsx": {
+      "checksum": "ebca7eaf9b2309c7c47391a657f6a012"
+    },
+    "lib/core-js-2.5.3/LICENSE": {
+      "checksum": "10a8b97c236e3ffcc8eb5499031df3a8"
+    },
+    "lib/core-js-2.5.3/package.json": {
+      "checksum": "fff1fa8dc521520dc651bddeb1a13993"
+    },
+    "lib/core-js-2.5.3/shim.min.js": {
+      "checksum": "602877ad760c1f61f344bf0d874e092e"
+    },
+    "lib/htmltools-fill-0.5.8.1/fill.css": {
+      "checksum": "0c307b2ce7a3fa7f260a0451457c809f"
+    },
+    "lib/htmlwidgets-1.6.4/htmlwidgets.js": {
+      "checksum": "237f59bc086ccf24f39be55311023b91"
+    },
+    "lib/react-18.2.0/AUTHORS": {
+      "checksum": "abe6dae82700f941fbd0dc4b16c263ac"
+    },
+    "lib/react-18.2.0/LICENSE.txt": {
+      "checksum": "94f0d486b3ba1dd568004dc5cccd32bc"
+    },
+    "lib/react-18.2.0/react-dom.min.js": {
+      "checksum": "ed7143221b8dbce4891558a9f545d534"
+    },
+    "lib/react-18.2.0/react.min.js": {
+      "checksum": "f5dd1d4a68ff16d851aecccdff5e2289"
+    },
+    "lib/reactable-0.4.4/reactable.css": {
+      "checksum": "558cd69d94fc017406fe83d5f7db314a"
+    },
+    "lib/reactable-0.4.4/reactable.js": {
+      "checksum": "02629d64c49bb8888b1bfe5eda0a2809"
+    },
+    "lib/reactable-0.4.4/reactable.js.map": {
+      "checksum": "248bcffb42f12f40aa45bfe3151a5350"
+    },
+    "lib/reactable-0.4.4/reactable.server.js": {
+      "checksum": "9af92f7a28a341c4ea5b8a1d7e4f2b5f"
+    },
+    "lib/reactable-0.4.4/reactable.server.js.LICENSE.txt": {
+      "checksum": "a5af523bd6e7735696d4af7e528ba430"
+    },
+    "lib/reactable-0.4.4/reactable.server.js.map": {
+      "checksum": "1053750a0d3ab47bb2e231aa83643adf"
+    },
+    "lib/reactable-0.4.4/reactable.yaml": {
+      "checksum": "386020afb4f85bc1538ec15ae9e80709"
+    },
+    "lib/reactable-binding-0.4.4/reactable.js": {
+      "checksum": "02629d64c49bb8888b1bfe5eda0a2809"
+    },
+    "lib/reactwidget-1.0.0/react-tools.js": {
+      "checksum": "406189f2cf96356236f97054c5616d2a"
+    },
+    "lib/reactwidget-1.0.0/react-tools.js.map": {
+      "checksum": "c9abc6cd72ad9181e9dc94b538399237"
+    },
+    "Output/Decision tree.html": {
+      "checksum": "3b418d043dd8ee1bbeb7f9255a7f6f43"
+    },
+    "Output/lib/core-js-2.5.3/LICENSE": {
+      "checksum": "10a8b97c236e3ffcc8eb5499031df3a8"
+    },
+    "Output/lib/core-js-2.5.3/package.json": {
+      "checksum": "fff1fa8dc521520dc651bddeb1a13993"
+    },
+    "Output/lib/core-js-2.5.3/shim.min.js": {
+      "checksum": "602877ad760c1f61f344bf0d874e092e"
+    },
+    "Output/lib/htmltools-fill-0.5.8.1/fill.css": {
+      "checksum": "0c307b2ce7a3fa7f260a0451457c809f"
+    },
+    "Output/lib/htmlwidgets-1.6.4/htmlwidgets.js": {
+      "checksum": "237f59bc086ccf24f39be55311023b91"
+    },
+    "Output/lib/react-18.2.0/AUTHORS": {
+      "checksum": "abe6dae82700f941fbd0dc4b16c263ac"
+    },
+    "Output/lib/react-18.2.0/LICENSE.txt": {
+      "checksum": "94f0d486b3ba1dd568004dc5cccd32bc"
+    },
+    "Output/lib/react-18.2.0/react-dom.min.js": {
+      "checksum": "ed7143221b8dbce4891558a9f545d534"
+    },
+    "Output/lib/react-18.2.0/react.min.js": {
+      "checksum": "f5dd1d4a68ff16d851aecccdff5e2289"
+    },
+    "Output/lib/reactable-0.4.4/reactable.css": {
+      "checksum": "558cd69d94fc017406fe83d5f7db314a"
+    },
+    "Output/lib/reactable-0.4.4/reactable.js": {
+      "checksum": "02629d64c49bb8888b1bfe5eda0a2809"
+    },
+    "Output/lib/reactable-0.4.4/reactable.js.map": {
+      "checksum": "248bcffb42f12f40aa45bfe3151a5350"
+    },
+    "Output/lib/reactable-0.4.4/reactable.server.js": {
+      "checksum": "9af92f7a28a341c4ea5b8a1d7e4f2b5f"
+    },
+    "Output/lib/reactable-0.4.4/reactable.server.js.LICENSE.txt": {
+      "checksum": "a5af523bd6e7735696d4af7e528ba430"
+    },
+    "Output/lib/reactable-0.4.4/reactable.server.js.map": {
+      "checksum": "1053750a0d3ab47bb2e231aa83643adf"
+    },
+    "Output/lib/reactable-0.4.4/reactable.yaml": {
+      "checksum": "386020afb4f85bc1538ec15ae9e80709"
+    },
+    "Output/lib/reactable-binding-0.4.4/reactable.js": {
+      "checksum": "02629d64c49bb8888b1bfe5eda0a2809"
+    },
+    "Output/lib/reactwidget-1.0.0/react-tools.js": {
+      "checksum": "406189f2cf96356236f97054c5616d2a"
+    },
+    "Output/lib/reactwidget-1.0.0/react-tools.js.map": {
+      "checksum": "c9abc6cd72ad9181e9dc94b538399237"
+    },
+    "Output/Rplot01.png": {
+      "checksum": "f36c25310086ea4d97930f7ecf412c5f"
+    },
+    "Output/table.html": {
+      "checksum": "7b7edcbaef76c3f2facd85d5f8c6e99e"
+    },
+    "Output/table2.html": {
+      "checksum": "b0836d548edc247c4cd1cb3c42a73bec"
+    },
+    "Scripts/Cleaning.R": {
+      "checksum": "bacaa818fc61e0edefa9a08f7a3d604e"
+    },
+    "Scripts/Decision tree.R": {
+      "checksum": "e34c689ababaa0df9dde668a9d7e04d4"
+    },
+    "Scripts/Matrix migrations.R": {
+      "checksum": "7660b03b3d27bb75e4edda67cfecc551"
+    },
+    "Scripts/Outcomes.R": {
+      "checksum": "4bd2867f9bb184cfcf34ab303b04bdac"
+    },
+    "Scripts/Outcomes2.R": {
+      "checksum": "b7543815d5d1dce1e848325364a0c3b6"
+    },
+    "Scripts/quality_check.R": {
+      "checksum": "eb3f6051e7fcc127bcce22cb682eec41"
+    },
+    "Scripts/Rajasthan analysis.qmd": {
+      "checksum": "da0270ae3623c5b4bf75c8060c665da2"
+    },
+    "Scripts/Sankeys and glm.R": {
+      "checksum": "88e9c741eebce3c65c9d384eae50fda0"
+    },
+    "Scripts/Sankeys2.R": {
+      "checksum": "a2e3ce71c027ef20b1c7df564dd8fdcc"
+    }
+  },
+  "users": null
+}
